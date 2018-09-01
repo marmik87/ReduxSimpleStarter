@@ -20,8 +20,12 @@
     "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
+    "@material-ui/core": "^3.0.1",
+    "@material-ui/icons": "^3.0.1",
     "babel-preset-stage-1": "^6.1.18",
+    "bower": "^1.8.4",
     "lodash": "^3.10.1",
+    "material-components-web": "^0.39.0",
     "react": "16.3.2",
     "react-dom": "16.3.2",
     "react-redux": "5.0.7",
